@@ -515,3 +515,7 @@ img {
 .portfolio-container {
   align-items: center;
 }
+
+.first-container {
+  margin: 0 auto;
+}
