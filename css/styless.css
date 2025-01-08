@@ -322,7 +322,6 @@ a {
 
 .list-portfolio {
   width: calc((100% - 48px) / 3);
-  min-height: 424px;
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -506,11 +505,6 @@ img {
 }
 
 .footer-socials-container {
-  max-width: 208px;
-  max-height: 80px;
-  align-items: center;
-  margin-right: 400px;
-  margin-left: 120px;
 }
 
 .portfolio-container {
